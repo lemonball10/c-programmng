@@ -10,16 +10,15 @@ body {
 /* ヘッダータグの装飾 */
 h1 {
   font-size: 2.5em;
-  color: #0066cc;
+  color: #c9cc00;
   border-bottom: 3px solid #ccc;
   padding-bottom: 10px;
 }
 
 h2 {
   font-size: 2em;
-  color: #003366;
+  color: #998f00f8;
   margin-top: 30px;
-  border-left: 5px solid #66aaff;
   padding-left: 10px;
 }
 
@@ -40,7 +39,7 @@ font {
 
 /* aリンクの装飾 */
 a {
-  color: #0066cc;
+  color: #f3e300;
   text-decoration: none;
 }
 
@@ -51,9 +50,9 @@ a:hover {
 /* ボタンの装飾 */
 button {
   padding: 10px 20px;
-  background-color: #28a745;
+  background-color: #ffee00;
   border: none;
-  color: white;
+  color: rgb(0, 0, 0);
   border-radius: 5px;
   cursor: pointer;
 }
@@ -87,13 +86,8 @@ li {
 }
 
 /* 画像に余白と枠線 */
-img {
-  margin-top: 10px;
-  border: 3px solid #ccc;
-  border-radius: 10px;
-  max-width: 100%;
-  height: auto;
-}
+
+
 
 /* pre/code 用：将来使う時に備えて */
 pre {
