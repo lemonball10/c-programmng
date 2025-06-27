@@ -1,7 +1,7 @@
 /* 全体の背景とフォント設定 */
 body {
   font-family: "Arial", sans-serif;
-  background-color: #f9f9f9;
+  background-color: #ebeabb;
   color: #333;
   line-height: 1.6;
   padding: 20px;
@@ -39,7 +39,7 @@ font {
 
 /* aリンクの装飾 */
 a {
-  color: #f3e300;
+  color: #000000;
   text-decoration: none;
 }
 
